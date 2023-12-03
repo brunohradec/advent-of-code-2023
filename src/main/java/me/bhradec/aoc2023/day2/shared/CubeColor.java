@@ -1,4 +1,4 @@
-package me.bhradec.aoc2023.day2.part1;
+package me.bhradec.aoc2023.day2.shared;
 
 public enum CubeColor {
     RED,

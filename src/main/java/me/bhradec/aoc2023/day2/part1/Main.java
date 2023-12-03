@@ -1,6 +1,7 @@
 package me.bhradec.aoc2023.day2.part1;
 
-import me.bhradec.aoc2023.day2.part2.Game;
+import me.bhradec.aoc2023.day2.shared.CubeColor;
+import me.bhradec.aoc2023.day2.shared.Game;
 
 import java.io.IOException;
 import java.nio.file.Files;
