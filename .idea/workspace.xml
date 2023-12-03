@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ece5a3c-68f4-4309-94d4-b83acf31215d" name="Changes" comment="" />
+    <list default="true" id="6ece5a3c-68f4-4309-94d4-b83acf31215d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/bhradec/aoc2023/day2/part1/CubeColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/bhradec/aoc2023/day2/part1/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/bhradec/aoc2023/day2/part1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/bhradec/aoc2023/day2/part2/CubeColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/bhradec/aoc2023/day2/part2/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/bhradec/aoc2023/day2/part2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day_2/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/bhradec/aoc2023/day1/part1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/bhradec/aoc2023/day1/part1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/bhradec/aoc2023/day1/part2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/bhradec/aoc2023/day1/part2/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -29,21 +41,25 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2YwyxroMV8ozBeJGSQhNhcaR5tU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bhr/Documents/advent-of-code-2023/src/main/resources/day_1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/bhr/Documents/advent-of-code-2023/src/main/java/me/bhradec/aoc2023/day2/part2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/me/bhradec/aoc2023/day2/part2" />
+      <recent name="$PROJECT_DIR$/src/main/resources/day_2" />
       <recent name="$PROJECT_DIR$/src/main/resources/day_1" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>

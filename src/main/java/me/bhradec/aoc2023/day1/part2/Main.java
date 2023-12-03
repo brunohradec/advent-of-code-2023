@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Stream;
 
-public class Solution {
+public class Main {
     private static final Map<String, Integer> wordMap = new HashMap<>() {{
         put("one", 1);
         put("two", 2);
